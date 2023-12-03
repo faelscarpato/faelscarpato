@@ -42,7 +42,3 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/Faelscarpato/Faelscarpato/output/snake.svg" alt="Snake animation" />
-
-###
