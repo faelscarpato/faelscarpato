@@ -1,44 +1,48 @@
-<h3 align="left">Olá, eu sou o Rafael ! 👋<br><br>Olá 👋, meu nome é Rafael, tenho 35 anos de idade e sou um autodidata e curioso de saber como as coisas acontecem...então...👇</h3><br><h2>🚀 Sobre mim</h2><br>Olá 👋, meu nome é Rafael, tenho 33 anos de idade e sou um autodidata e curioso de saber como as coisas acontecem...então...👇<br><br>Sou uma pessoa cabeça dura, gosto de sempre estar atualizado sobre novos acontecimentos na área de tecnologia.<br><br>Com o tempo eu fui aprendendo a gostar de estudar e a curiosidade aumentou e assim sempre tento buscar aprender novos desafios. <br><br>Sou designer gráfico de autodidata, comecei a aprender fuçando e vendo artes de pessoas profissionais, hoje trabalho com as principais ferramentas de criação, como, Photoshop, Illustrator, CorelDraw, figma e mais alguns.<br><br>Agora comecei a tentar dar mais um passo no meu futuro, sempre achei que não iria de forma alguma, algum dia gostar de linguagem de programação, agora estou gostando e não consigo mais parar de fuçar e aprender e treinar o que já aprendi.</p>
+<p align="center">
+<img width="1366" height="617" alt="image" src="https://github.com/user-attachments/assets/32d60a1f-af93-45e0-849b-127e303354d4" />
 
-###
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faelscarpato&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Faelscarpato&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Faelscarpato&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h1 align="center">Rafael Scarpato</h1>
 
-###
+<p align="center">
+Designer gráfico • Front-end • Criador autodidata  
+<em>Sou o laboratório público. Minhas ideias se tornam código.</em>
+</p>
 
-<img align="right" height="120" src="https://faelscarpato.github.io/img/eu1.jpg"  />
 
-###
+## 🚀 Eu construo coisas que importam
 
-<div align="right">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+⚡ Transformo ideias em interfaces  
+⚡ Conecto design com código  
+⚡ Crio ferramentas que eu uso no meu dia a dia  
 
-### MINHAS REDES
+Veja **projetos prontos ou em construção**.
 
-<div align="left">
- <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
-</div>
+---
 
-###
+## ✨ Comece em 3 passos
 
-<br clear="both">
+```bash
+git clone https://github.com/faelscarpato/<projeto>
+cd <projeto>
+npm install && npm start
+```
+⭐ Destaques
+
+📌 CapyIDE
+IDE com IA integrada e fluxo de desenvolvimento mais inteligente.
+
+📌 Super CapyUniverse
+Ecossistema completo de ferramentas criativas com IA.
+
+📌 CapyWhats
+Bot WhatsApp + IA que resolve demandas reais.
+
+🛠️ Stack (badges)
+<p align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" /> </p>
+
+🌐 Onde me encontrar
+<p align="center"> <a href="https://linkedin.com/in/rafaelscarpato">LinkedIn</a> • <a href="https://instagram.com/rafaelscarpato">Instagram</a> • <a href="https://rafaelscarpato.com">Portfólio</a> • <a href="mailto:rafael+github@seuemail.com">Email</a> </p>
+<p align="center"> <em>Engajamento não é sorte. É clareza + identidade + ação.</em> </p> 
+
