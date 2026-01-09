@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=84CC16&width=500&lines=Designer+Gr%C3%A1fico+%26+Front-end;Criador+Autodidata;Interfaces+%7C+Sistemas+%7C+Experi%C3%AAncias;Do+Design+ao+Full+Stack" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=84CC16&width=500&lines=Designer+Gr%C3%A1fico+%26+Front-end;Criador+sem+Limite;Interfaces+%7C+Sistemas+%7C+Experi%C3%AAncias;Do+Design+ao+Full+Stack" alt="Typing SVG" />
   </a>
 </div>
 
@@ -41,14 +41,13 @@ Este GitHub é meu **laboratório público**.
 
 ## 🛠️ Tech Stack
 
-### • Linguagens
+### • Aprendizado em Linguagens
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
 ---
